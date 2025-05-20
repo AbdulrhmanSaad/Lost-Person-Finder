@@ -35,7 +35,15 @@ The backend for this app is hosted separately:
 
 ## 🚀 Getting Started
 
-## 🎥 Demo
+## 🎥 Demo Videos
 
-[![Watch the demo](https://drive.google.com/file/d/1fqy8dgM7804xNEaPJk4ev8kXVkgoilPP/view?usp=sharing)
-[![Watch the demo](https://drive.google.com/file/d/1s26i1Nz3Ad8jE5vIPtOUmYdhK4XjAe6k/view?usp=drive_link)
+### Lost Person Finder - Demo 1  
+[![🎬 Watch Demo 1](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/1s26i1Nz3Ad8jE5vIPtOUmYdhK4XjAe6k/view?usp=drive_link)  
+Click the video icon above to watch the first demo hosted on Google Drive.
+
+---
+
+### Lost Person Finder - Demo 2  
+[![🎬 Watch Demo 2](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/1fqy8dgM7804xNEaPJk4ev8kXVkgoilPP/view?usp=sharing)  
+Click the video icon above to watch the second demo hosted on Google Drive.
+
