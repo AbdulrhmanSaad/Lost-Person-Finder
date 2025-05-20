@@ -1,42 +1,45 @@
-# Lost Person Finder 👤🧭
+# Lost Person Finder 👤📱
 
-A web-based system designed to help locate and identify missing persons using facial recognition technology, powered by machine learning and cloud-based image storage.
+An Android-based mobile application that helps locate and identify missing persons using facial recognition, powered by machine learning and cloud storage services.
 
-## 🔍 Description
+## 📱 Description
 
-**Lost Person Finder** is an AI-driven solution to assist in the detection and management of missing persons. The system allows users to upload images of missing individuals, search for potential matches using facial recognition, and manage case information through an intuitive interface.
+**Lost Person Finder** is a mobile app developed in Kotlin for Android devices. It allows users to upload and search for photos of missing individuals. The app connects to a backend API that handles facial recognition using deep learning models and image processing, helping in the identification of people through secure cloud-based technologies.
 
-This repository contains the **frontend client**, while the **backend logic** is managed in a separate repository:
+The backend for this app is hosted separately:
 👉 [People_Fined Backend Repository](https://github.com/AhmedYossry552/People_Fined)
 
 ## 🧠 Key Features
 
-- 🔐 **User authentication** for secure access
-- 📷 **Facial recognition** using deep learning models
-- ☁️ **Image storage** on Azure Blob Storage
-- 📁 Upload and search for person photos
-- 🗂️ Manage person profiles and case details
-- 🔄 Integration with a robust **Flask backend** API
+- 📲 Android mobile application developed in Kotlin
+- 📸 Upload and search for person photos
+- 🧠 Facial recognition using machine learning
+- ☁️ Secure image storage with Azure Blob Storage
+- 🔐 User login & account management
+- 🔄 Real-time communication with a Flask REST API
 
 ## 🏗️ Tech Stack
 
-### Frontend
-- HTML / CSS / JavaScript
-- Bootstrap (UI framework)
+### Frontend (This Repo)
+- Kotlin
+- Android SDK
+- Retrofit (API communication)
+- Glide (Image loading)
+- Jetpack components (Navigation, LiveData, ViewModel)
 
-### Backend (linked project)
+### Backend (in [People_Fined](https://github.com/AhmedYossry552/People_Fined))
 - Python + Flask
 - TensorFlow / OpenCV / dlib
 - MySQL database
-- Azure Blob Storage for image hosting
+- Azure Blob Storage
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repositories
 
 ```bash
-# Clone the frontend
+# Clone the Android mobile app
 git clone https://github.com/AbdulrhmanSaad/Lost-Person-Finder.git
 
-# Clone the backend
+# Clone the backend Flask API
 git clone https://github.com/AhmedYossry552/People_Fined.git
