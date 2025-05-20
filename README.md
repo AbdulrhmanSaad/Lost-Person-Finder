@@ -35,11 +35,7 @@ The backend for this app is hosted separately:
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repositories
+## 🎥 Demo
 
-```bash
-# Clone the Android mobile app
-git clone https://github.com/AbdulrhmanSaad/Lost-Person-Finder.git
-
-# Clone the backend Flask API
-git clone https://github.com/AhmedYossry552/People_Fined.git
+[![Watch the demo](https://drive.google.com/file/d/1fqy8dgM7804xNEaPJk4ev8kXVkgoilPP/view?usp=sharing)
+[![Watch the demo](https://drive.google.com/file/d/1s26i1Nz3Ad8jE5vIPtOUmYdhK4XjAe6k/view?usp=drive_link)
